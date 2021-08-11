@@ -83,7 +83,7 @@ p {
 #nav ul li:before {
 	content: "";
 	position: absolute;
-	bottom: -40px;
+	bottom: -45px;
 	left: 0;
 	width: 100%;
 	border-bottom: 6px solid #11749e;
